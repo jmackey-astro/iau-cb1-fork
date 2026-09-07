@@ -64,17 +64,19 @@ To be updated.
 **Important Dates:**
 
 
-August 15, 2026 : *Registeration Opens*
+
+August 15, 2026 : *Registration Opens*
 
 October 01, 2026 : *Abstract Submission Deadline*
 
 October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
 
-**Registeration:**
+**Registration:**
 <mark>NEW</mark>
 
-The registeration can be done [here](https://forms.gle/uh51eus1Y2x2Pzf98)
+The registration can be done [here](https://forms.gle/uh51eus1Y2x2Pzf98)
+
 
 
 **Scientific Organizing Committee**
@@ -98,7 +100,4 @@ The registeration can be done [here](https://forms.gle/uh51eus1Y2x2Pzf98)
 9. Steven Rieder 
 
 10. Christian M. Boily
-
-
-
 
