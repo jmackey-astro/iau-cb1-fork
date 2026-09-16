@@ -58,8 +58,21 @@ The detailed schedule for CHAICA-7 will be updated here.
 
 **Invited Speakers**
 
-To be updated.
+Ashish Mahabal
 
+Francisco Villaescusa-Navarro
+
+Jessica Doppel
+
+Hajime Fukushima
+
+Claude Cournoyer-Cloutier
+
+Sophie Rosu
+
+Max Gronke
+
+Maria del Valle
 
 **Important Dates:**
 
